@@ -1,0 +1,5 @@
+text: "is it BMW?"
+image: "https://car-brand-names.com/wp-content/uploads/2016/02/Mazda-Logo-1997.png"
+images: ['https://m.media-amazon.com/images/I/718vwiv9QlL._AC_UF1000,1000_QL80_.jpg', 'https://blog.logomaster.ai/hs-fs/hubfs/Mercedes-Benz%20logo-1933.jpg?width=672&height=454&name=Mercedes-Benz%20logo-1933.jpg']
+classes: D:/Dina/LogoLensAI/classes.txt
+weights:  D:/Dina/LogoLensAI/efficientnet_logo2k.pth
