@@ -10,9 +10,9 @@ This project is designed to recognition logos in images using EfficientNet and D
 - [Usage](#usage)
 - [Arguments](#arguments)
 - [Configuration](#configuration)
-- [Training EfficientNet](#trainingefficientnet)
-- [How It Works](#howitworks)
-- [Example Output](#exampleoutput)
+- [Training EfficientNet](#training-efficientnet)
+- [How It Works](#how-it-works)
+- [Example Output](#example-output)
 - [Contacts](#contacts)
 
 
@@ -58,6 +58,7 @@ python main.py --text "Is it Mazda?" --image "path/to/image.jpg" --weights "path
 - ```--classes```: Path to the classes.txt file containing brand names
 
 - ```--weights```: Path to the trained EfficientNet model (efficientnet_logo2k.pth)
+
 ## Configuration
 You can also use the configuration file ***config/config.yaml.***:
 ```markdown
